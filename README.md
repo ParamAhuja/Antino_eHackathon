@@ -5,7 +5,7 @@ Project submission for the Antino eHackathon
 In India, more than Six Crore people suffer from hearing problems, and more than Ten Crore people suffer from speech related problems to some order.
 - A Majority of communication-impared population use the *ASL or ISL, but the non-signers struggle to communicate with them.
 - Existing solutions like human interpreters or text-based methods are not always accessible or efficient, and sometimes impractical
-- Pre-existing solutions only aim to promote and normalize ASL (for eg. "signs-ai" by nvidia) and they fail to provide inclusivity due to lack of a proper dataset. 
+- Existing organizations only aim to promote and normalize ASL (for eg. "signs-ai" by nvidia) and they fail to provide inclusivity due to lack of a proper dataset. 
 > The observation was made that the needs of those troubled by communication barriers are not always catered. So, there exists a need for a real-time, speech assistant solution powered by modern AI-technologies such as vision model.
 
 # The Big Idea
