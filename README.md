@@ -12,3 +12,18 @@ Sonara is a web-based accessibility platform, designed to provide inclusivity to
 - The project features real-time ASL-to-speech and speech-to-ASL conversion, through video-call. It also speech-recognition, ASL-tutoring and custom gesture recognition as additional features.
 - Sonara will recognize various signs using the live web-cam footage, to detect the holistic landmarks on the hands, face and body and use those points as data to translate it into text (or to speech) using LSTM.
 > The solution aims to bring the people a quality of life application, and enabling seamless-communication for all, no matter their predicament.
+
+
+# Steps to Install and Run the model
+
+**1. Clone the repository**
+- open the terminal in the folder intended to clone the repository in.
+- paste `git clone https://github.com/ParamAhuja/Antino_eHackathon.git` and enter.
+- after the repository is cloned, open the folder with a code editor like VS code with permission to access the webcam.
+
+**2. Install the requirements**
+- open the terminal in the same folder as the project and paste `pip install -r requirements.txt` and enter.
+
+**3. Run the project**
+- simply run the python program file named "ASL.py".
+- the webcam window will pop-up, press "q" on keyboard to exit the window.
