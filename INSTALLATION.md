@@ -11,3 +11,8 @@
 **3. Run the project**
 - simply run the python program file named "ASL.py".
 - the webcam window will pop-up, press "q" on keyboard to exit the window.
+
+# IMPORTANT INSTRUCTIONS:
+1. python version `Python 3.10.0`
+2. If using locally on a code editor, make sure to provide access to the webcam.
+3. If using an online notebook editor, make sure to use one that provides webcam accessibility.

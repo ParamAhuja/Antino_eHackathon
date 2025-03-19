@@ -69,7 +69,7 @@ with mp_holistic.Holistic(min_detection_confidence=0.5, min_tracking_confidence=
         cv2.imshow('FullScreen', image)
 
         # Break gracefully
-        if cv2.waitKey(10) & 0xFF == ord('q'):
+        if cv2.waitKey(10):
             break
     cap.release()
     cv2.destroyAllWindows()
