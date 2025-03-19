@@ -1,7 +1,8 @@
 # Steps to Install and Run the model
 
 **1. Clone the repository**
-- open the terminal in the folder intended to clone the repository in.
+- open the terminal in the folder intended to clone the repository in. (ensure you have git installed)
+- paste `git init` and enter.
 - paste `git clone https://github.com/ParamAhuja/Antino_eHackathon.git` and enter.
 - after the repository is cloned, open the folder with a code editor like VS code with permission to access the webcam.
 
