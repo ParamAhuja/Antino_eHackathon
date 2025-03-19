@@ -1,5 +1,5 @@
 # Antino_eHackathon
-Project submission for the Antino eSubmission
+Project submission for the Antino eHackathon
 
 # The Problem
 In India, more than Six Crore people suffer from hearing problems, and more than Ten Crore people suffer from speech related problems to some order.
