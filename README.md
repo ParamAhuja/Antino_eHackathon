@@ -14,7 +14,7 @@ In India, more than Six Crore people suffer from hearing problems, and more than
 - Sonara will recognize various signs using the live web-cam footage, to detect the holistic landmarks on the hands, face and body and use those points as data to translate it into text (or to speech) using LSTM.
 > Sonara aims to bring the people a quality of life application, and enabling seamless-communication for all, no matter their predicament.
 
-![Watch the video](https://github.com/ParamAhuja/Antino_eHackathon/blob/main/ASL_Demo.mp4)
+![Watch the video](https://drive.google.com/file/d/1O8kKMUvKhD9TZnOzKuTSW63eLri0YSAJ/view?usp=drive_link)
 
 # Steps to Install and Run the model (same as in installation.md)
 
